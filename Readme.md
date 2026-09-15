@@ -46,9 +46,9 @@ header library.
 
 ## Screenshots
 
-| Case: Some test are failing. Shows source file location and summary lists the failing tests | Case: All test are passing. Shows elapsed time for each test.            |
-|---------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|
-| [![Failure](./docs/images/failure_thumb.png)](./docs/images/failure.png)                    | [![Passing](./docs/images/passing_thumb.png)](./docs/images/passing.png) |
+| Case: Some tests are failing. Shows source file location and summary lists the failing tests | Case: All tests are passing. Shows elapsed time for each test.           |
+|----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|
+| [![Failure](./docs/images/failure_thumb.png)](./docs/images/failure.png)                     | [![Passing](./docs/images/passing_thumb.png)](./docs/images/passing.png) |
 
 ## Examples
 
@@ -156,7 +156,7 @@ See [Mocking and faking](./example/sensor_test.c) example
 
 ## Running tests
 
-In order to test yukti.h run `tests/run_all_tests.sht`. This runs integration tests & examples.
+In order to test yukti.h run `tests/run_all_tests.sh`. This runs integration tests & examples.
 
 ## Versioning
 
